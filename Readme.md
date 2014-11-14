@@ -1,8 +1,8 @@
-[![Build Status](https://circleci.com/gh/segmentio/integration-usercycle.png)](https://circleci.com/gh/segmentio/integration-usercycle)
+[![Build Status](https://circleci.com/gh/segmentio/integration-usercycle/tree/master.png?style=badge)](https://circleci.com/gh/segmentio/integration-usercycle/tree/master)
 
-# USERcycle server-side integration.
+# integration-usercycle
 
-Write me...
+USERcycle server-side integration for Segment.
 
 
 ## License
