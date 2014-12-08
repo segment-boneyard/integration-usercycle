@@ -18,7 +18,7 @@
     "isodate-traverse": "^0.3.2",
     "isostring": "0.0.1",
     "obj-case": "^0.1.1",
-    "segmentio-integration": "^3.0.3",
+    "segmentio-integration": "^3.0.5",
     "unix-time": "^1.0.1"
   },
   "devDependencies": {
